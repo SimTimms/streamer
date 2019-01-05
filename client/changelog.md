@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.4] - 2019-01-05
+
+### Changed
+
+- This is another feature test
+
 ## [0.1.3] - 2019-01-05
 
 ### Changed
